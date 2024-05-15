@@ -1,0 +1,43 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  img{
+    height: 100%;
+    width: 100%;
+  }
+
+  .bd-placeholder-img{
+    height: 100%;
+    width: auto;
+  }
+
+  .card-text{
+    text-align: center;
+    font-weight: 800;
+  }
+
+  .col-md-5{
+    height: 500;
+    width: 500;
+  }
+
+  .h2{
+    text-align: center;
+  }
+
+  .row{
+    text-align: center;
+  }
+
+  .lead{
+    font-weight: 400;
+  }
